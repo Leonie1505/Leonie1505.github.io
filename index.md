@@ -1,6 +1,6 @@
 # Was ist die Nutzwertanalyse?
 
-! [Palmen](01.jpg) 
+![Palmen](01.jpg)
 
 Est occaecat ea aliquip eu aliquip sint ut proident est commodo proident. Nisi aute ipsum voluptate culpa ad dolor et deserunt magna ex et pariatur ut ut. Et adipisicing mollit eiusmod aliquip culpa id id ad enim officia veniam. Pariatur deserunt reprehenderit quis anim ea est reprehenderit reprehenderit id esse esse. Laborum laborum consectetur magna magna tempor eiusmod ullamco cillum duis excepteur eu do ad.
 Officia laboris Lorem anim consectetur aute. Est esse amet laborum ullamco est magna excepteur veniam consectetur Lorem. Cupidatat nisi eiusmod consectetur aute non excepteur ex. Elit elit adipisicing id nostrud eiusmod ullamco. Ut consequat laboris non pariatur ipsum incididunt incididunt sint. Anim eu laboris voluptate Lorem velit aliqua mollit.
