@@ -8,6 +8,14 @@ Wird der Fokus auf die externe Seite eines Geschäftsmodells gelegt, stellen ins
 
 Ziel dieser Ausarbeitung ist es, die Lieferantenanalyse sowie die Nutzwertanalyse als entsprechendes Hilfsmittel zu erläutern. Dafür wird in Kapitel zwei die theoretische Fundierung der Lieferantenanalyse dargestellt. Eine Erläuterung der Nutzwertanalyse sowie eine praktische Anwendung erfolgt in Kapitel drei. Ein Fazit in Kapitel vier schließt diese Arbeit ab.
 
+# Prozess der Lieferantenanalyse
+
+Die Aufgaben des Einkaufs haben sich seit den 1950er Jahren von der reinen Bestellabwicklung zum nachhaltigen Wertschöpfungsmanagement entwickelt. Dazu gehört z.B. Lieferantenrisiken frühzeitig zu erkennen, damit Versorgungsengpässe und Imageverluste vermieden werden können (Stollenwerk, 2016, S. 22). Janker unterteilt den Prozess des Lieferantenmanagements bis zur Entscheidung für einen Lieferanten in fünf Schritte (Janker, 2009, S. 57).
+
+![Lieferantenanalyse](02.JPG)
+
+[Hier ist mein Bild](https://leonie1505.github.io/)
+
 ![Palmen](01.jpg)
 
 Est occaecat ea aliquip eu aliquip sint ut proident est commodo proident. Nisi aute ipsum voluptate culpa ad dolor et deserunt magna ex et pariatur ut ut. Et adipisicing mollit eiusmod aliquip culpa id id ad enim officia veniam. Pariatur deserunt reprehenderit quis anim ea est reprehenderit reprehenderit id esse esse. Laborum laborum consectetur magna magna tempor eiusmod ullamco cillum duis excepteur eu do ad.
