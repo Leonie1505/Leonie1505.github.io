@@ -1,4 +1,12 @@
-# Was ist die Nutzwertanalyse?
+# Einführung
+
+Maßnahmen gegen die Anforderungen der dynamischen Umwelt, wie der fortschreitende Digitalisierungsprozess, die steigenden Kundenanforderungen sowie der daraus resultierende Wettbewerbsdruck müssen fest in der Unternehmensstrategie verankert sein (Kreitz, 2009, S. 42). Auch bezeichnet als Megatrends, schaffen deren Anforderungen gleichzeitig ein „Window of Opportunity“, sprich neue Gestaltungsmöglichkeiten, für Geschäftsmodelle (Wagner & Kabel, 2018, S. 170).
+
+Nach Bieger (2011, S. 17) besteht ein Geschäftsmodell aus drei Hauptkomponenten: Der Value Proposition, der Architektur der Wertschöpfung und dem Ertragsmodell. Ersteres bezieht sich auf den Nutzen, den Kunden oder Partner aus der Verbindung mit einem Unternehmen ziehen können. Zweiteres beinhaltet eine Beschreibung der Stufen der Wertschöpfung und der wirtschaftlichen Agenten und ihrer Rollen in der Wertschöpfung. Letzteres beschäftigt sich mit zukünftigen Einnahmen, mit dem Wert des Geschäftsmodells und somit mit seiner Nachhaltigkeit (Bieger, 2011, S. 23).
+
+Wird der Fokus auf die externe Seite eines Geschäftsmodells gelegt, stellen insb. Zulieferer in einem Unternehmen ein wichtiges Element der betrieblichen Wertschöpfungskette dar (Schwalbach, 2018, S. 12). Eine hinreichende Lieferantenanalyse ermöglicht es dem Unternehmen, aus einem großen Pool von Lieferanten, den kostengünstigsten sowie qualitätsbesten Partner zu ermitteln (Schwalbach, 2018, S. 12). Im Zuge dessen, greifen Unternehmen auf Hilfsmittel zurück, die die Abwägung von bestehenden Alternativen erleichtert. Als ein bewährtes Hilfsmittel zeigt sich dabei die sog. Nutzwertanalyse, welche anhand von festgelegten Bewertungskriterien eine Präferenzrangfolge für die Auswahlentscheidung vorlegt (Kühnapfel, 2019, S. 2).
+
+Ziel dieser Ausarbeitung ist es, die Lieferantenanalyse sowie die Nutzwertanalyse als entsprechendes Hilfsmittel zu erläutern. Dafür wird in Kapitel zwei die theoretische Fundierung der Lieferantenanalyse dargestellt. Eine Erläuterung der Nutzwertanalyse sowie eine praktische Anwendung erfolgt in Kapitel drei. Ein Fazit in Kapitel vier schließt diese Arbeit ab.
 
 ![Palmen](01.jpg)
 
